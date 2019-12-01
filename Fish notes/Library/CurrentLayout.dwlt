@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 379
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -70,10 +70,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 653
-  m_MinSize: {x: 1087, y: 498}
-  m_MaxSize: {x: 14060, y: 14048}
+  m_MinSize: {x: 887, y: 498}
+  m_MaxSize: {x: 16012, y: 14048}
   vertical: 0
-  controlID: 61
+  controlID: 29
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 653
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -119,8 +119,8 @@ MonoBehaviour:
     y: 0
     width: 248
     height: 379
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -145,8 +145,8 @@ MonoBehaviour:
     y: 379
     width: 1003
     height: 274
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 232, y: 274}
+  m_MaxSize: {x: 10002, y: 10024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -241,10 +241,10 @@ MonoBehaviour:
     y: 0
     width: 1003
     height: 653
-  m_MinSize: {x: 810, y: 498}
-  m_MaxSize: {x: 10058, y: 14048}
+  m_MinSize: {x: 610, y: 498}
+  m_MaxSize: {x: 12010, y: 14048}
   vertical: 1
-  controlID: 62
+  controlID: 30
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,10 +267,10 @@ MonoBehaviour:
     y: 0
     width: 1003
     height: 379
-  m_MinSize: {x: 810, y: 224}
-  m_MaxSize: {x: 10058, y: 4024}
+  m_MinSize: {x: 610, y: 224}
+  m_MaxSize: {x: 12010, y: 4024}
   vertical: 0
-  controlID: 63
+  controlID: 31
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -290,14 +290,14 @@ MonoBehaviour:
     y: 0
     width: 551
     height: 379
-  m_MinSize: {x: 404, y: 124}
-  m_MaxSize: {x: 2052, y: 2072}
-  m_ActualView: {fileID: 13}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 13}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -362,20 +362,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Rhythm N Jump/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Rhythm N Jump/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/siobhanrose/Downloads/Fish notes
+  m_LastProjectPath: /Users/siobhanrose/Desktop/Rhythm-jump/Fish notes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 66300000
-    m_LastClickedID: 12390
-    m_ExpandedIDs: 0000000066300000
+    m_SelectedIDs: c8280000
+    m_LastClickedID: 10440
+    m_ExpandedIDs: 000000002c280000b8280000cc290000d42f0000e82f0000f42f00001a3000001c30000028300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -403,7 +403,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000002c280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -430,8 +430,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300001835000056290000be290000a42a0000782a0000bc2a0000b4280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -522,9 +522,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: baedffff
+      m_SelectedIDs: 20400000
+      m_LastClickedID: 16416
+      m_ExpandedIDs: 72bdffff14e0ffff3ae0ffffbce2fffff2e2ffff30e3ffffd8fbffffda3b0000203c0000263c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -580,9 +580,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 92.37086, y: -336.04138, z: 0}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 92.37086, y: -336.04138, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -614,9 +614,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 9.16649
     speed: 2
-    m_Value: 10
+    m_Value: 9.16649
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -651,7 +651,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 248
     y: 75
-    width: 499
+    width: 547
     height: 359
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
@@ -664,8 +664,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -249.5
-    m_HBaseRangeMax: 249.5
+    m_HBaseRangeMin: -273.5
+    m_HBaseRangeMax: 273.5
     m_VBaseRangeMin: -171
     m_VBaseRangeMax: 171
     m_HAllowExceedBaseRangeMin: 1
@@ -685,25 +685,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 499
+      width: 547
       height: 342
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 249.5, y: 171}
+    m_Translation: {x: 273.5, y: 171}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -249.5
+      x: -273.5
       y: -171
-      width: 499
+      width: 547
       height: 342
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 499, y: 359}
+  m_LastWindowPixelSize: {x: 547, y: 359}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000101000000000000
