@@ -61,28 +61,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Rhythm N Jump\Scripts\addscore.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\AutoRotate.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\back_spawn.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\blue.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\buttonevent.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\changescorecolor.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\circlescale.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\collisionenter.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\CreateOnDestroy.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\cubedestroy.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\cubereddestroy.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\jump.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\lighttransform.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\LoadScene.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\red.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\RetryButtonEvents.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\showmenu.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\SoundManger.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\taptojumpdestroy.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\trianglematerial.cs" />
-    <Compile Include="Assets\Rhythm N Jump\Scripts\UnitySingletonPersistent.cs" />
+    <Compile Include="Assets\Game files\Scripts\addscore.cs" />
+    <Compile Include="Assets\Game files\Scripts\AutoRotate.cs" />
+    <Compile Include="Assets\Game files\Scripts\back_spawn.cs" />
+    <Compile Include="Assets\Game files\Scripts\blue.cs" />
+    <Compile Include="Assets\Game files\Scripts\buttonevent.cs" />
+    <Compile Include="Assets\Game files\Scripts\changescorecolor.cs" />
+    <Compile Include="Assets\Game files\Scripts\circlescale.cs" />
+    <Compile Include="Assets\Game files\Scripts\collisionenter.cs" />
+    <Compile Include="Assets\Game files\Scripts\CreateOnDestroy.cs" />
+    <Compile Include="Assets\Game files\Scripts\cubedestroy.cs" />
+    <Compile Include="Assets\Game files\Scripts\cubereddestroy.cs" />
+    <Compile Include="Assets\Game files\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Game files\Scripts\jump.cs" />
+    <Compile Include="Assets\Game files\Scripts\lighttransform.cs" />
+    <Compile Include="Assets\Game files\Scripts\LoadScene.cs" />
+    <Compile Include="Assets\Game files\Scripts\red.cs" />
+    <Compile Include="Assets\Game files\Scripts\RetryButtonEvents.cs" />
+    <Compile Include="Assets\Game files\Scripts\showmenu.cs" />
+    <Compile Include="Assets\Game files\Scripts\SoundManger.cs" />
+    <Compile Include="Assets\Game files\Scripts\taptojumpdestroy.cs" />
+    <Compile Include="Assets\Game files\Scripts\trianglematerial.cs" />
+    <Compile Include="Assets\Game files\Scripts\UnitySingletonPersistent.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/siobhanrose/Desktop/Rhythm-jump/Fish notes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

@@ -23,10 +23,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 653
-  m_MinSize: {x: 913, y: 424}
+  m_MinSize: {x: 913, y: 448}
   m_MaxSize: {x: 22008, y: 10000}
   vertical: 0
-  controlID: 16491
+  controlID: 19915
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -128,10 +128,10 @@ MonoBehaviour:
     y: 0
     width: 554
     height: 653
-  m_MinSize: {x: 202, y: 424}
-  m_MaxSize: {x: 4002, y: 8024}
+  m_MinSize: {x: 202, y: 448}
+  m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 16408
+  controlID: 19809
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,9 +190,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 69.347885, y: -1.144595, z: 51.702362}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 69.347885, y: -1.144595, z: 51.702362}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -220,13 +220,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.078030266, y: -0.07112379, z: 0.0055810497, w: -0.99439514}
+    m_Target: {x: -0.091664866, y: 0.018517453, z: -0.0017049528, w: -0.9956163}
     speed: 2
-    m_Value: {x: -0.078030266, y: -0.07112379, z: 0.0055810497, w: -0.99439514}
+    m_Value: {x: -0.091664866, y: 0.018517453, z: -0.0017049528, w: -0.9956163}
   m_Size:
-    m_Target: 47.640087
+    m_Target: 747.0493
     speed: 2
-    m_Value: 47.640087
+    m_Value: 747.0493
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -257,8 +257,8 @@ MonoBehaviour:
     y: 335
     width: 554
     height: 318
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -283,8 +283,8 @@ MonoBehaviour:
     y: 0
     width: 206
     height: 653
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -321,7 +321,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8ab5feff3a9100004c910000
+      m_ExpandedIDs: a676fdff8ab5feff3a9100004c91000062d9000090d90000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -364,8 +364,8 @@ MonoBehaviour:
     y: 0
     width: 234
     height: 653
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 234, y: 274}
+  m_MaxSize: {x: 10004, y: 10024}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -409,19 +409,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Game files/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Game files/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/siobhanrose/Desktop/Rhythm-jump/Fish notes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 52280000
-    m_LastClickedID: 10322
+    m_SelectedIDs: f8280000
+    m_LastClickedID: 10488
     m_ExpandedIDs: 0000000052280000e6280000fa28000076290000242a0000362c0000382c00003a2c00003c2c0000c2870000d0870000d2870000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -475,9 +475,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 22910000
-    m_LastClickedInstanceID: 37154
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 94d90000
+    m_LastClickedInstanceID: 55700
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
