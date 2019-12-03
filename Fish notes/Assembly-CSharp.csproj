@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Game files\Font\NewBehaviourScript.cs" />
     <Compile Include="Assets\Game files\Scripts\addscore.cs" />
     <Compile Include="Assets\Game files\Scripts\AutoRotate.cs" />
     <Compile Include="Assets\Game files\Scripts\back_spawn.cs" />
