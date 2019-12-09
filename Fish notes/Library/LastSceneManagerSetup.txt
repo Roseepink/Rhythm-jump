@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Rhythm N Jump/Scenes/start.unity
+- path: Assets/Game files/Scenes/start.unity
   isLoaded: 1
   isActive: 1
