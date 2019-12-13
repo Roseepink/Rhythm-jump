@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{8743FF7D-AC1E-77FA-C7E0-BDF906335099}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game files/Scripts/addscore.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game files/Scripts/UnitySingletonPersistent.cs">
     <Files>
       <File FileName="Assets/Game files/Scripts/GameManager.cs" Line="74" Column="18" />
       <File FileName="Assets/Game files/Scripts/red.cs" Line="1" Column="1" />
@@ -17,6 +17,8 @@
       <File FileName="Assets/Game files/Scripts/cubedestroy.cs" Line="1" Column="1" />
       <File FileName="Assets/Game files/Scripts/AutoRotate.cs" Line="1" Column="1" />
       <File FileName="Assets/Game files/Scripts/addscore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game files/Scripts/back_spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game files/Scripts/UnitySingletonPersistent.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
