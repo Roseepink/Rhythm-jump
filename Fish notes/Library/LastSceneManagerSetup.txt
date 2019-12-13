@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Game files/Scenes/start.unity
-=======
-- path: Assets/Game files/Scenes/gameeasy.unity
->>>>>>> master
   isLoaded: 1
   isActive: 1
